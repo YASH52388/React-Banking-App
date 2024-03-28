@@ -1,6 +1,6 @@
 # Lion Bank App
 
-![Example Image](https://github.com/YASH52388/React-Banking-App/blob/master/public/free.png)
+![Example Image](https://github.com/YASH52388/React-Banking-App/blob/master/public/picc1.png)
 
 
 ## Introduction
