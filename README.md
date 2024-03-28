@@ -1,5 +1,8 @@
 # Lion Bank App
 
+![Example Image](https://github.com/YASH52388/React-Banking-App/blob/master/public/free.png)
+
+
 ## Introduction
 
 Lion Bank App is a React-based web application designed to manage basic banking operations. This project utilizes Chakra UI for styling and provides functionalities such as account creation, searching, transactions, and more.
@@ -42,4 +45,5 @@ After starting the application, navigate through the UI to access different func
 
 ## My Contact
 1. Gmail : yashbhoy27@gmail.com
-2. twitter : 
+2. twitter : https://x.com/yash52388?t=3BMvXVkPGQ7lR7qJyPWVnQ&s=09
+3. Linkedin : https://www.linkedin.com/in/yash-bhoy-053231233
