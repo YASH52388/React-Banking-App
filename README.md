@@ -1,6 +1,6 @@
 # Lion Bank App
 
-![Example Image](https://github.com/YASH52388/React-Banking-App/blob/master/public/picc1.png)
+![Example Image](public\picc1.png)
 
 
 ## Introduction
@@ -46,4 +46,4 @@ After starting the application, navigate through the UI to access different func
 ## My Contact
 1. Gmail : yashbhoy27@gmail.com
 2. twitter : https://x.com/yash52388?t=3BMvXVkPGQ7lR7qJyPWVnQ&s=09
-3. Linkedin : https://www.linkedin.com/in/yash-bhoy-053231233
+3. Linkedin : https://www.linkedin.com/in/yash-bhoy-053231233 
