@@ -41,7 +41,7 @@ After starting the application, navigate through the UI to access different func
 5. Open a pull request.
 
 ## License
-1. Distributed under the MIT License. See LICENSE for more information.
+1. Distributed under the GNU Affero General Public License v3.0 License. See LICENSE for more information.
 
 ## My Contact
 1. Gmail : yashbhoy27@gmail.com
