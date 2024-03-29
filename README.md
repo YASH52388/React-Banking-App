@@ -1,6 +1,6 @@
 # Lion Bank App
 
-![Example Image](public\picc1.png)
+![Example Image](public/picc1.png)
 
 
 ## Introduction
